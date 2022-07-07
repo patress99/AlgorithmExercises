@@ -18,5 +18,7 @@ public class Main {
             jex--;
             System.out.println(jex);
         }
+
+        System.out.println("pas");
     }
 }
