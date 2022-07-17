@@ -20,5 +20,6 @@ public class Main {
         }
 
         System.out.println("pas");
+        System.out.println("This is a new commit");
     }
 }
